@@ -6,7 +6,17 @@
     <description>Recent content on Kou のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 19:56:03 +0900</lastBuildDate><atom:link href="https://koufo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 21:21:52 +0900</lastBuildDate><atom:link href="https://koufo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows タブレットでLinuxを動かしたかった</title>
+      <link>https://koufo.github.io/post/20240804/</link>
+      <pubDate>Sun, 04 Aug 2024 21:21:52 +0900</pubDate>
+      
+      <guid>https://koufo.github.io/post/20240804/</guid>
+      <description>ARROWS Tab Q506/MEでKubuntuをインストールしたらWindowsの回復ができなくなった．．．
+Kubuntuでタッチパネルがうまく動くようになったらこの記事を更新します．</description>
+    </item>
+    
     <item>
       <title>20240530</title>
       <link>https://koufo.github.io/post/20240530/</link>
